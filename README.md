@@ -16,13 +16,13 @@ Dla **pełnego 2023 roku**, wszystkich kanałów i kategorii, w porównaniu z pe
 
 | Wskaźnik | 2022 | 2023 | Zmiana |
 |---|---:|---:|---:|
-| Revenue | 47,71 mln | 35,22 mln | −26,2% |
-| Gross Profit | 27,90 mln | 20,67 mln | −25,9% |
+| Revenue | 47,71 mln | 35,22 mln | -26,2% |
+| Gross Profit | 27,90 mln | 20,67 mln | -25,9% |
 | Gross Margin | 58,48% | 58,67% | +0,20 p.p. |
-| Orders | 18 895 | 15 503 | −18,0% |
-| Units Sold | 143 836 | 118 173 | −17,8% |
-| Active Customers | 16 388 | 13 746 | −16,1% |
-| New Customers | 9 010 | 5 890 | −34,6% |
+| Orders | 18 895 | 15 503 | -18,0% |
+| Units Sold | 143 836 | 118 173 | -17,8% |
+| Active Customers | 16 388 | 13 746 | -16,1% |
+| New Customers | 9 010 | 5 890 | -34,6% |
 | Returning Customers | 7 378 | 7 856 | +6,5% |
 | Online Revenue Share | 53,76% | 60,69% | +6,93 p.p. |
 
@@ -55,7 +55,7 @@ Raport jest projektem portfolio opracowanym na dostarczonych danych.
 
 | Element | Opis |
 |---|---|
-| Zakres dat sprzedaży | 1 stycznia 2015 – 20 kwietnia 2024 |
+| Zakres dat sprzedaży | 1 stycznia 2015 - 20 kwietnia 2024 |
 | Zakres kalendarza | Do 31 grudnia 2024 |
 | Pozycje sprzedaży | 199 873 |
 | Unikalne zamówienia | 83 130 |
