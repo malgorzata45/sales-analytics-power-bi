@@ -278,15 +278,4 @@ Kolejnymi krokami mogłyby być:
 3. **Analiza klientów** — sprawdzenie, w jakich segmentach zmniejszyła się liczba klientów z pierwszym zaobserwowanym zakupem.
 4. **Uzupełnienie kontekstu** — połączenie wyników z danymi o promocjach, dostępności produktów i działaniach marketingowych, jeśli będą dostępne.
 
-Są to kierunki dalszej analizy, a nie potwierdzone przyczyny zmian.
-
-## Jak otworzyć raport
-
-Jeśli plik `.pbix` znajduje się w repozytorium:
-
-1. Pobierz go na komputer.
-2. Otwórz w programie **Microsoft Power BI Desktop**.
-3. Korzystaj z filtrów **Year**, **Channel** i **Category**, aby przeanalizować wybrany zakres.
-
-Przy odświeżaniu danych może być konieczne wskazanie lokalizacji źródłowych plików CSV w ustawieniach źródła danych.
 
