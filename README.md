@@ -91,6 +91,8 @@ Strona główna przedstawia najważniejsze KPI, miesięczny trend przychodu w po
 
 Pomaga odpowiedzieć na pytanie: **co zmieniło się w wynikach sprzedaży?** Zrzut strony znajduje się na początku dokumentu.
 
+![Sales Overview - strona główna raportu Contoso Sales Analytics](images/Overview.png)
+
 ### 2. Sales & Channels
 
 Analiza liczby zamówień, sprzedanych sztuk i średniej wartości zamówienia. Wykres waterfall pokazuje zmianę przychodu według kanału, a pozostałe wizualizacje przedstawiają wyniki online i sklepów stacjonarnych, strukturę sprzedaży oraz miesięczną liczbę zamówień.
