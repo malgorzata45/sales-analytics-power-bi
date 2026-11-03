@@ -89,7 +89,7 @@ Zrzuty przedstawiają raport przygotowany w Power BI Desktop. Widoczne na nich w
 
 Strona główna przedstawia najważniejsze KPI, miesięczny trend przychodu w porównaniu z poprzednim rokiem, pięć kategorii o najwyższym przychodzie oraz komentarze dotyczące wyniku, kategorii i kanałów.
 
-Pomaga odpowiedzieć na pytanie: **co zmieniło się w wynikach sprzedaży?** Zrzut strony znajduje się na początku dokumentu.
+Pomaga odpowiedzieć na pytanie: **co zmieniło się w wynikach sprzedaży?** 
 
 ![Sales Overview - strona główna raportu Contoso Sales Analytics](images/Overview.png)
 
